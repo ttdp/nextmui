@@ -1,6 +1,6 @@
 "use client";
 import { Button, Grid, Stack } from "@mui/material";
-import { getLogger } from "../ logging/log-util";
+import { getLogger } from "../logging/log-util";
 
 export default function Home() {
 
